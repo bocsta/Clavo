@@ -1,0 +1,24 @@
+To prevent the issue of the cloning of NFC chips Clavo will be using third party NTag 413 and 424 DNA NFC's
+The Ntag's were not able to be sourced in time for the devery hackathon but will be impletement into the release product.
+
+specs below are provided by  NXP
+
+NTAG 413 DNA revolutionizes NTAG product portfolio by bringing AES cryptographic
+authentication and allows to automatically and securely connect to a web service by just
+tapping the tag without the need of a dedicated app installed on the mobile NFC device.
+Besides the NXP originality signature and a 3-pass mutual authentication, it introduces a
+novel security feature called “Secure Unique NFC Message (SUN)”, which automatically
+generates tap-unique tag authentication data upon each read-out what enables
+dedicated unique communication to each user based on predefined criteria. No app
+(in NFC device) is required to generate this tap-unique data consisting of CMACed
+information derived from the chip UID, a tap counter and contained data. An NFC
+enabled device can automatically connect to a web based service and based on the
+information contained in URL, the device can check the tags authenticity and verify the
+information validity. NTAG 413 DNA offers flexibility to individualize the structure of this
+unique data set.
+NTAG 413 DNA is an ideal solution to engage with consumers through dynamic content
+experiences, fully triggered by them and served in real-time. By that it enables smarter
+marketing based on ongoing contextual and unique consumer engagement opportunities
+in a secure way. Applications include but are not limited to consumer engagement, brand
+protection, access control, one-time vouchers and similar use cases where the proof of
+uniqueness, originality and physical tag presence are required
